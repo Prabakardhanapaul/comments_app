@@ -1,0 +1,25 @@
+We are used below languages and tools
+
+Client side script 
+
+	* HTML
+	* Css
+	* Javascript
+	* Jqurey
+
+Server side script
+
+	* PHP
+
+Database
+
+	* Mysql
+
+Web server
+
+	* Apache tomcat
+
+Tools
+
+	* Net beans
+	* Phpmyadmin
